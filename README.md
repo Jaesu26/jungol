@@ -1,2 +1,3 @@
-# jungol
-Good Bye, BOJ!
+# Jungol
+
+Wellcom, Jungol!
