@@ -1,3 +1,2 @@
-# Jungol
-
-Wellcom, Jungol!
+# JUNGOL
+Wellcom, JUNGOL!
